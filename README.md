@@ -5,5 +5,4 @@ HID 2020 (Happy Independence Day 2020 Animation)  is a Python program  built usi
 
 >**Software -  Python interpreter**
 
->**module -  turtle , winsound ** 
-
+> module -  turtle , winsound
